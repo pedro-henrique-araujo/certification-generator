@@ -1,0 +1,14 @@
+{
+    "pastor": "ALEX ARAÚJO",
+    "localPastor": "PRESBÍTERO JAIR",
+    "teacher": "CARLOS ALBERTO",
+    "churchName": "Assembleia de Deus Templo Central de Aquiraz - Congregação Riviera",
+    "certificationKind": "CONCLUSÃO DE DISCIPULADO",
+    "conclusionDay": "27 de julho de 2021",
+    "outputDirectory": "pdf-files",
+    "students": [
+        "Pedro Henrique Ribeiro de Araújo",
+        "Juliana Ribeiro Matos",
+        "Lara Mônica Ribeiro de Araújo"
+    ]
+}
